@@ -1,0 +1,13 @@
+.card {background-color: black;
+  color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  padding: 1rem;
+  padding-bottom: 10px;
+}
+.nav {background-color: rgb(183, 41, 41);
+  color: rgb(18, 4, 4);
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  padding: 1rem;
+}
